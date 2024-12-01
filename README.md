@@ -28,21 +28,8 @@ Government of Gujarat
 
 
 ## Use Cases
-1. Alumni Registration and Profile Management
-   Primary Actor: Alumni
-Alumni sign up and create their profile on the platform, providing details like graduation year, course of study, current profession, and location. They can also update their profiles and connect with other alumni.
-2. Alumni Donation
-Primary Actor: Alumni
-Alumni contribute financially to support the college’s development, projects, or specific causes (e.g., scholarships, infrastructure). Donations can be one-time or recurring.
-3. Alumni Networking and Mentorship
-Primary Actor: Alumni
-Alumni can connect with fellow alumni based on common interests, career goals, or geographical location. They can participate in a mentorship program.
-4. Alumni Event Registration and Participation
-Primary Actor: Alumni
- Alumni can register for events like reunions, career fairs, workshops, webinars, or networking sessions organized by the alumni association.
-5. Alumni Directory Search
-Primary Actor: Alumni
-Alumni can search for fellow alumni using multiple criteria such as year of graduation, course of study, current profession, or geographic location.
+![image](https://github.com/user-attachments/assets/7bec052e-04f0-4e5e-b524-ffa8b88be7a8)
+
 ## Technology Stack
 1. Frontend (Web & Mobile)
     Web: React.js, Material-UI/Ant Design, Redux
